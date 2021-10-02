@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helmgitdemo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-02T20:25:31.282775935+06:00"
+    description: A Helm chart for Git Demo
+    digest: e22530c85810e91e4086440700ffe330d8a09512234a49fcea22b49c430b1926
+    name: helmgitdemo
+    type: application
+    urls:
+    - helmgitdemo-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-02T20:25:31.212864602+06:00"
